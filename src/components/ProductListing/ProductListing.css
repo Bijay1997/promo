@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    display: flex;
+    margin: 50px auto;
+}
+.AvailableSizes{
+    width: 20%;
+    padding-left: 15px;
+}
+
+.listed-products{
+    width: 80%
+}

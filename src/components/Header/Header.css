@@ -1,0 +1,6 @@
+.header-section{
+    justify-content: space-between;
+    display: flex;
+    top: 0;
+    margin: 0;
+}

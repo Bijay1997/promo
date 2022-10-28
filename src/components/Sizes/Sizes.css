@@ -1,0 +1,24 @@
+.sizeButton{
+    display:flex;
+    flex-wrap: wrap;
+    text-align: center;
+    flex-direction: row;
+   
+}
+    
+.clicker{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin: 5px;
+    font-size: 0.8em;
+    
+}
+.clicker:hover{
+    border: 1px solid black;
+    cursor: pointer;
+}
+.selected{
+    background: black;
+    color: white;
+}
